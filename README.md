@@ -1,0 +1,2 @@
+# Squirrel
+Distributed RDBMS 
